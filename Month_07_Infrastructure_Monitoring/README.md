@@ -35,8 +35,10 @@
 
 ---
 
-## Example repos
+## Repos to review
 
+- [Prometheus](https://github.com/prometheus/prometheus)
+- [Grafana](https://github.com/grafana/grafana)
 - [Ansible Prometheus role](https://github.com/cloudalchemy/ansible-prometheus)
 - [Prometheus Docker Compose](https://github.com/ntk148v/prompose)
 - [K8s monitoring (Ansible)](https://github.com/rahulinux/ansible-k8s-monitoring)

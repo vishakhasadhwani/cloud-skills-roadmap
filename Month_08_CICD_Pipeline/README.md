@@ -35,11 +35,12 @@
 
 ---
 
-## Example repos
+## Repos to review
 
-- [Ultimate DevOps project (Abhishek, Udemy)](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/)
-- [Jenkins pipeline examples](https://github.com/jenkinsci/pipeline-examples)
 - [Awesome GitHub Actions](https://github.com/sdras/awesome-actions)
+- [Jenkins pipeline examples](https://github.com/jenkinsci/pipeline-examples)
+- [GitLab CI examples](https://docs.gitlab.com/ee/ci/examples/)
+- [Ultimate DevOps project (Abhishek, Udemy)](https://www.udemy.com/course/ultimate-devops-project-with-resume-preparation/)
 
 ---
 

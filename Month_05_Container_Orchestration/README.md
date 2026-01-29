@@ -32,4 +32,11 @@
 
 ---
 
+## Repos to review
+
+- [Ansible for Kubernetes](https://github.com/geerlingguy/ansible-for-kubernetes) – K8s + config automation
+- [DevOps Master Class](https://github.com/in28minutes/devops-master-class) – orchestration examples
+
+---
+
 **Next:** [Month 06 – RAG Pipeline](../Month_06_RAG_Pipeline/)

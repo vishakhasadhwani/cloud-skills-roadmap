@@ -19,7 +19,7 @@ A **month-by-month beginner guide** to go from zero to job-ready in cloud, DevOp
 |-------|--------|--------|
 | **1–2** | Foundations: Infrastructure, tools, first hybrid project, Kubernetes | [Month_01-02_Foundations](./Month_01-02_Foundations/) |
 | **3** | Infrastructure as Code (Terraform) | [Month_03_Infrastructure_as_Code](./Month_03_Infrastructure_as_Code/) |
-| **4** | Configuration + Automation (Ansible, networking) | [Month_04_Configuration_Automation](./Month_04_Configuration_Automation/) |
+| **4** | Configuration + Automation (cloud config, fundamentals, Ansible project) | [Month_04_Configuration_Automation](./Month_04_Configuration_Automation/) |
 | **5** | Container orchestration beyond Kubernetes | [Month_05_Container_Orchestration](./Month_05_Container_Orchestration/) |
 | **6** | Project 1 – RAG pipeline (hybrid deployment) | [Month_06_RAG_Pipeline](./Month_06_RAG_Pipeline/) |
 | **7** | Project 2 – Infrastructure monitoring | [Month_07_Infrastructure_Monitoring](./Month_07_Infrastructure_Monitoring/) |

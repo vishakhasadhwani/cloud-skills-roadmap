@@ -33,4 +33,12 @@
 
 ---
 
+## Repos to review
+
+- [DevOps Master Class](https://github.com/in28minutes/devops-master-class) – Terraform, K8s, IaC
+- [Terraform AWS provider](https://github.com/hashicorp/terraform-provider-aws) – examples & patterns
+- [GCP Terraform examples](https://github.com/GoogleCloudPlatform/terraform-google-examples)
+
+---
+
 **Next:** [Month 04 – Configuration + Automation](../Month_04_Configuration_Automation/)

@@ -42,11 +42,13 @@
 
 ---
 
-## Example repos
+## Repos to review
 
 - [Ollama + Docker](https://github.com/wolffaxn/ollama-docker)
 - [Project Pulse RAG](https://github.com/vmvadivel/Project-Pulse)
+- [LlamaIndex](https://github.com/run-llama/llama_index) – RAG framework
 - [Private RAG (Qdrant + Vultr + dspy + Ollama)](https://qdrant.tech/documentation/examples/rag-chatbot-vultr-dspy-ollama/)
+- [Krish Naik](https://github.com/krishnaik06) · [Abhishek Veeramalla](https://github.com/iam-veeramalla) – MLOps/RAG projects
 
 ---
 

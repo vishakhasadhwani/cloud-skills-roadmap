@@ -27,6 +27,14 @@
 
 ---
 
+## Repos to review (practice & interview prep)
+
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+
+---
+
 **Next:** [Advanced Skills](../Advanced_Skills/) · [Resources](../Resources/)
 
 [← Back to roadmap](../README.md)
