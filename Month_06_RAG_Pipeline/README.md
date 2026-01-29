@@ -37,8 +37,8 @@
 
 ## Deploy (e.g. Cloudflare Pages)
 
-- [Cloudflare Pages](https://developers.cloudflare.com/pages/)
-- [Deploy to Cloudflare Pages](https://www.youtube.com/watch?v=MTIkKUHs6q4)
+- [Cloudflare Pages](https://youtu.be/IXpvUD5SDzA?si=z2YM57L2xLFDEuqL)
+- [Deploy to Cloudflare Pages](https://youtu.be/bNJtfFfW6tE?si=Ij4WrCJZGX43mhrQ)
 
 ---
 
@@ -102,8 +102,8 @@
 
 **📺 YouTube Videos:**
 
-- Matt Williams - "Ollama Complete Tutorial"
-- TechWorld with Nana - "LangChain Tutorial"
+- Matt Williams - [Ollama Complete Tutorial](https://www.youtube.com/hashtag/ollamaai)
+- LangChain Full Course - [LangChain Tutorial](https://youtu.be/vzJOAnwIokM?si=W5hsCLWs1z5zjeWs)
 
 **Topics to Cover:**
 

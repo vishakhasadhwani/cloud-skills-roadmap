@@ -31,7 +31,7 @@
 ## Hybrid connectivity design
 
 - [AWS hybrid networking](https://aws.amazon.com/hybrid/)
-- [Azure hybrid](https://learn.microsoft.com/en-us/azure/architecture/hybrid/)
+- [Azure hybrid](https://learn.microsoft.com/en-us/azure/architecture/hybrid/hybrid-start-here)
 - [GCP hybrid connectivity](https://cloud.google.com/hybrid-connectivity)
 
 ---

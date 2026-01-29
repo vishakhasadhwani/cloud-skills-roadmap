@@ -19,7 +19,7 @@
 
 ### Networking refresher
 
-- [Networking fundamentals (Nana)](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Networking fundamentals (kunal kushwaha)](https://youtu.be/IPvYjXCsTg8?si=Jh7rUY3COklPWmAp)
 - [TCP/IP basics (Cloudflare)](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/)
 - [Subnetting and VLANs](https://www.practicalnetworking.net/)
 
@@ -92,8 +92,8 @@
 
 **📺 YouTube Videos:**
 
-- [NetworkChuck - "you need to learn Vagrant RIGHT NOW"](https://www.youtube.com/results?search_query=networkchuck+vagrant)
-- [TechWorld with Nana - "Docker Tutorial for Beginners"](https://www.youtube.com/results?search_query=techworld+nana+docker+beginners)
+- [NetworkChuck - "you need to learn Vagrant RIGHT NOW"](https://youtu.be/wX75Z-4MEoM?si=6fmtuVM-3ux4Bte9)
+- [TechWorld with Nana - "Docker Tutorial for Beginners"](https://youtu.be/3c-iBn73dDE?si=SZcBX0ISHJwVfb5m)
 - [freeCodeCamp - "Terraform Course - Automate Your AWS Cloud Infrastructure"](https://www.youtube.com/results?search_query=freecodecamp+terraform+course)
 
 **Topics to Cover:**

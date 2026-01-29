@@ -17,14 +17,14 @@
 
 - [Exponent](https://www.youtube.com/@tryexponent) - System design interviews
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo) - System design concepts
-- [Hussein Nasser](https://www.youtube.com/@haboramura) - Backend engineering deep dives
+- [Hussein Nasser](https://youtu.be/V3ZPPPKEipA?si=ipUZCsEl_xlTcA_k) - Backend engineering deep dives
 
 ---
 
 ## STAR framework
 
 - [STAR method guide](https://www.themuse.com/advice/star-interview-method)
-- [DevOps interview stories](https://www.youtube.com/watch?v=DKHJLSmAKpY)
+- [DevOps interview stories](https://youtu.be/mg1ZqahIpVw?si=cYVaWvlh8biAz_Y9)
 
 ---
 
@@ -39,7 +39,7 @@
 ## Budget + cost guardrails
 
 - [AWS Budgets and alerts](https://aws.amazon.com/aws-cost-management/aws-budgets/)
-- [Cloud cost management](https://www.cloudzero.com/blog/cloud-cost-management-best-practices)
+- [Cloud cost management](https://www.cloudzero.com/guide/modern-cost-management/)
 - [FinOps best practices](https://www.finops.org/framework/)
 
 ---

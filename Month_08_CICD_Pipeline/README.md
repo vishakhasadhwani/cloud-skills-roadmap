@@ -8,14 +8,14 @@
 
 - [GitHub Actions docs](https://docs.github.com/en/actions)
 - [GitHub Actions tutorial](https://www.youtube.com/watch?v=R8_veQiYBjI)
-- [Abhishek – GitHub Actions](https://www.youtube.com/watch?v=nSxJDxLe0pM)
+- [Abhishek – GitHub Actions](https://youtu.be/K3RqgDPCjYs?si=IkxA2Z_t1nme6btY)
 
 ---
 
 ## Docker build pipeline
 
 - [Docker CI/CD with GitHub Actions](https://docs.docker.com/build/ci/github-actions/)
-- [Building Docker images in CI](https://www.youtube.com/watch?v=eB0nUzai1M8)
+- [Building Docker images in CI](https://youtu.be/7I6tHw68DMQ?si=5aJ_OKKWNl6CJxdY)
 
 ---
 
@@ -23,7 +23,7 @@
 
 - [Trivy docs](https://aquasecurity.github.io/trivy/)
 - [Trivy GitHub Action](https://github.com/aquasecurity/trivy-action)
-- [Container security scanning](https://www.youtube.com/watch?v=JMNGKpnm9HE)
+- [Container security scanning](https://youtu.be/gLJdrXPn0ns?si=7upXadywa_S6p4g7)
 
 ---
 

@@ -23,14 +23,14 @@
 ## Exporters
 
 - [Node Exporter](https://github.com/prometheus/node_exporter)
-- [Prometheus exporters](https://prometheus.io/docs/instrumentation/exporters/)
+- [Prometheus exporters](https://prometheus.io/docs/instrumenting/exporters/)
 - [Default port allocations](https://github.com/prometheus/prometheus/wiki/Default-port-allocations)
 
 ---
 
 ## Observability
 
-- [Observability best practices (CNCF)](https://www.cncf.io/blog/2021/08/26/observability-best-practices/)
+- [Observability 2.0 (CNCF)](https://www.cncf.io/blog/2025/01/27/what-is-observability-2-0/)
 - [Monitoring distributed systems (Google SRE)](https://sre.google/sre-book/monitoring-distributed-systems/)
 
 ---
