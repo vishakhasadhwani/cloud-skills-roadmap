@@ -35,15 +35,45 @@
 
 ---
 
-## Repos to review
+## Project 2: Infrastructure Monitoring (Works Everywhere)
 
-- [Prometheus](https://github.com/prometheus/prometheus)
-- [Grafana](https://github.com/grafana/grafana)
-- [Ansible Prometheus role](https://github.com/cloudalchemy/ansible-prometheus)
-- [Prometheus Docker Compose](https://github.com/ntk148v/prompose)
-- [K8s monitoring (Ansible)](https://github.com/rahulinux/ansible-k8s-monitoring)
-- [Multi-cluster monitoring](https://github.com/andygolubev/monitoring-prometheus)
+**Detailed Steps:**
 
----
+1. **Create docker-compose.yml:** Define prometheus, grafana, node-exporter services
+2. **Configure Prometheus:** Create `prometheus.yml` with scrape configs
+3. **Add node-exporter:** Expose host metrics (CPU, memory, disk, network)
+4. **Start stack:**
+   ```bash
+   docker-compose up -d
+   ```
+5. **Access Prometheus:** http://localhost:9090, verify targets are up
+6. **Configure Grafana:** http://localhost:3000, add Prometheus data source
+7. **Import dashboards:** Node Exporter Full (ID: 1860), Docker containers
+8. **Create custom dashboard:** Build panels for your specific metrics
+9. **Setup alerts:** Configure AlertManager for Slack/email notifications
+10. **Deploy to cloud:** Same stack works on any cloud VM
+
+**GitHub Repositories:**
+
+| Repository | Description |
+|------------|-------------|
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | Monitoring system |
+| [grafana/grafana](https://github.com/grafana/grafana) | Visualization platform |
+| [samber/workshop-prometheus-grafana](https://github.com/samber/workshop-prometheus-grafana) | Hands-on workshop |
+| [vegasbrianc/github-monitoring](https://github.com/vegasbrianc/github-monitoring) | Docker + Prometheus + Grafana |
+| [Einsteinish/Docker-Compose-Prometheus-and-Grafana](https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana) | Complete stack |
+
+**📺 YouTube Videos:**
+
+- TechWorld with Nana - "Prometheus Monitoring"
+- DevOps Toolkit - "Prometheus and Grafana Tutorial"
+
+**Topics to Cover:**
+
+- [ ] PromQL query language
+- [ ] Metrics types (counter, gauge, histogram)
+- [ ] Alerting rules and notification channels
+- [ ] Dashboard design principles
+
 
 **Next:** [Month 08 – CI/CD Pipeline](../Month_08_CICD_Pipeline/)

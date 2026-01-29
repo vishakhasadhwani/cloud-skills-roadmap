@@ -61,6 +61,29 @@
 - [Prometheus overview](https://prometheus.io/docs/introduction/overview/)
 - [ML monitoring](https://www.jeremyjordan.me/ml-monitoring/)
 
+
+### Advanced Project: Intelligent LLM Query Router
+
+**Detailed Steps:**
+
+1. **Create query classifier:** Categorize queries as simple/complex/sensitive
+2. **Setup routing logic:**
+   - Simple → Ollama (local, fast, free)
+   - Complex → GPT-4 (expensive, powerful)
+   - Sensitive → On-prem only (never leaves network)
+3. **Implement caching:** Redis cache for repeated queries
+4. **Add metrics:** Track latency, cost, and accuracy per route
+5. **Document results:**
+   - 75% cost reduction vs all-API approach
+   - 80% queries under 100ms
+
+**Skills That Set You Apart:**
+
+- ✅ Multi-Cloud Terraform expertise (not just "AWS expert")
+- ✅ Cost optimization obsession (can you build it for 1/10th the price?)
+- ✅ Hybrid AI architecture patterns
+- ✅ Understanding trade-offs (not dogmatic about any approach)
+
 ---
 
 [← Back to roadmap](../README.md) · [Resources](../Resources/)

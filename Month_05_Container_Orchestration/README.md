@@ -38,5 +38,56 @@
 - [DevOps Master Class](https://github.com/in28minutes/devops-master-class) – orchestration examples
 
 ---
+#### Project: Deploy Same App on Multiple Orchestrators
+
+**Part 1: Docker Swarm** (Learn in 2 hours vs 2 weeks for K8s)
+
+```bash
+# Initialize Swarm
+docker swarm init
+
+# Deploy stack
+docker stack deploy -c docker-compose.yml myapp
+
+# Scale services
+docker service scale myapp_web=5
+
+# Monitor
+docker service ls
+docker service ps myapp_web
+```
+
+**Part 2: HashiCorp Nomad**
+
+```bash
+# Install Nomad
+# Download from HashiCorp, add to PATH
+
+# Start dev mode
+nomad agent -dev
+
+# Create job file (HCL)
+# Run job
+nomad job run myapp.nomad
+
+# Access UI
+# http://localhost:4646
+```
+
+**GitHub Repositories:**
+
+| Repository | Description |
+|------------|-------------|
+| [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) | Multi-container app |
+| [hashicorp/nomad](https://github.com/hashicorp/nomad) | Workload orchestrator |
+
+**Topics to Cover:**
+
+- [ ] Orchestrator comparison (K8s vs Swarm vs Nomad)
+- [ ] Service discovery and load balancing
+- [ ] Rolling updates and deployments
+- [ ] Resource constraints and scheduling
+
+---
 
 **Next:** [Month 06 – RAG Pipeline](../Month_06_RAG_Pipeline/)

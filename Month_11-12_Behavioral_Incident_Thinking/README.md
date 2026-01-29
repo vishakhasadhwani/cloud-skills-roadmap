@@ -4,6 +4,23 @@
 
 ---
 
+**STAR Method Stories to Prepare:**
+
+| Question | Story Focus |
+|----------|-------------|
+| "Tell me about a time costs got out of control" | AWS bill story - tagging, budgets, auto-shutdown |
+| "How do you decide cloud vs on-prem?" | Balance: data gravity, latency, compliance, cost |
+| "Describe a difficult debugging experience" | Production issue resolution process |
+| "How do you stay current with technology?" | Learning and experimentation approach |
+
+**📺 YouTube Channels for Interview Prep:**
+
+- [Exponent](https://www.youtube.com/@tryexponent) - System design interviews
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo) - System design concepts
+- [Hussein Nasser](https://www.youtube.com/@haboramura) - Backend engineering deep dives
+
+---
+
 ## STAR framework
 
 - [STAR method guide](https://www.themuse.com/advice/star-interview-method)
